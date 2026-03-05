@@ -7,11 +7,11 @@ metadata:
 spec:
   group: repository.m.upbound.io
   names:
+    kind: Repository
     categories:
     - crossplane
     - managed
     - upbound
-    kind: Repository
     listKind: RepositoryList
     plural: repositories
     singular: repository
