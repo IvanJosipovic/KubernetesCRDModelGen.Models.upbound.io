@@ -7,11 +7,11 @@ metadata:
 spec:
   group: iam.m.upbound.io
   names:
+    kind: RobotTeamMembership
     categories:
     - crossplane
     - managed
     - upbound
-    kind: RobotTeamMembership
     listKind: RobotTeamMembershipList
     plural: robotteammemberships
     singular: robotteammembership

@@ -7,11 +7,11 @@ metadata:
 spec:
   group: repository.m.upbound.io
   names:
+    kind: Permission
     categories:
     - crossplane
     - managed
     - upbound
-    kind: Permission
     listKind: PermissionList
     plural: permissions
     singular: permission

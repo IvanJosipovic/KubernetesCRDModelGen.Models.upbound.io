@@ -7,11 +7,11 @@ metadata:
 spec:
   group: m.upbound.io
   names:
+    kind: ClusterProviderConfig
     categories:
     - crossplane
     - provider
     - upbound
-    kind: ClusterProviderConfig
     listKind: ClusterProviderConfigList
     plural: clusterproviderconfigs
     singular: clusterproviderconfig

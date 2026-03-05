@@ -7,11 +7,11 @@ metadata:
 spec:
   group: iam.upbound.io
   names:
+    kind: Team
     categories:
     - crossplane
     - managed
     - upbound
-    kind: Team
     listKind: TeamList
     plural: teams
     singular: team
